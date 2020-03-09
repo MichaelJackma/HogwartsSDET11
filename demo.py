@@ -6,3 +6,5 @@
 @File   : demo.py
 '''
 
+a=1
+print(a)
